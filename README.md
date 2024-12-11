@@ -1,19 +1,36 @@
-This project is a comprehensive Employee Management System designed to facilitate the management of employee data, payroll reports, and salary adjustments. The application was built using Visual Studio 2022 with .NET Framework 4.7.2, Crystal Reports 36, and MySQL Workbench as the database management system.
+# Employee Management System
 
-Features
-1. Add / Delete / Modify Employee Data
-Add Employees: Enter employee details and calculate salaries based on specified fields.
-Update Employee Data: Search employees by name or surname, modify their information, and save or discard changes.
-Delete Employees: Search for employees, select the one to delete, and confirm the action.
-2. Reports - Payroll and Employee Payslips
-Payroll Report: View comprehensive reports containing employee details and total salary calculations.
-Payslips: Generate and view individual salary payslips for each employee.
-3. Adjust Salary Percentages
-Modify salary percentages according to the new salary grid by accessing the "Percentages" section.
-Tools and Technologies Used
-Visual Studio 2022: For development.
-.NET Framework 4.7.2: Application framework.
-Crystal Reports 36: For generating reports and payslips.
-MySQL Workbench: For database management and query handling.
+This **Employee Management System** is designed to facilitate the management of employee data, payroll reports, and salary adjustments. It is built with **Visual Studio 2022** using **.NET Framework 4.7.2**, **Crystal Reports 36**, and **MySQL Workbench** for database management.
 
-This project is designed to simplify and streamline employee management processes, making it an essential tool for HR and payroll administration.
+---
+
+## Features
+
+### 1. **Add / Delete / Modify Employee Data**
+- **Add Employees**: Easily enter employee details and automatically calculate salaries based on specific fields.
+- **Update Employee Data**: Search employees by **name** or **surname**, modify their information, and either **save** or **discard** changes.
+- **Delete Employees**: Search for employees, select the one to delete, and confirm the deletion process.
+
+### 2. **Reports - Payroll and Employee Payslips**
+- **Payroll Report**: Generate detailed reports with employee data and total salary calculations.
+- **Payslips**: View and generate **individual payslips** for each employee, ensuring accurate salary records.
+
+### 3. **Adjust Salary Percentages**
+- Modify salary percentages based on the new salary grid in the **"Percentages"** section.
+
+---
+
+## Tools and Technologies Used
+
+- **Visual Studio 2022**: IDE for development.
+- **.NET Framework 4.7.2**: The core application framework.
+- **Crystal Reports 36**: For generating reports and employee payslips.
+- **MySQL Workbench**: Used for database management and query execution.
+
+---
+
+## Getting Started
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/employee-management-system.git
