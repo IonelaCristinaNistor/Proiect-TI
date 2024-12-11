@@ -28,9 +28,3 @@ This **Employee Management System** is designed to facilitate the management of 
 - **MySQL Workbench**: Used for database management and query execution.
 
 ---
-
-## Getting Started
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/employee-management-system.git
